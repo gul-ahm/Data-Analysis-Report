@@ -5,6 +5,7 @@
 > Every figure below is a live formula referencing the source sheets. Update source data and answers refresh automatically.
 
 ---
+<img width="1783" height="733" alt="image" src="https://github.com/user-attachments/assets/03c11e26-be7e-422a-8ca8-2ef1d6be2a84" />
 
 ## 📑 Table of Contents
 
